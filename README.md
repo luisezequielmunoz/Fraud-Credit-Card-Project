@@ -1,5 +1,7 @@
 # Fraud Credit Card Transactions
 
+![Screenshot 2023-02-12 at 19 46 37](https://user-images.githubusercontent.com/66885480/218330646-7f7451e7-d327-4345-9acf-ce503d0cbb33.jpg)
+
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase.
 
 ## Content
